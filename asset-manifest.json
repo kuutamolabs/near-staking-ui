@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.8de58c3c.css",
-    "main.js": "/static/js/main.c854412b.js",
+    "main.js": "/static/js/main.156e4fe6.js",
     "static/media/my-near-wallet-icon.png": "/static/media/my-near-wallet-icon.21577bc85de47e042ffc.png",
     "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.8de58c3c.css",
-    "static/js/main.c854412b.js"
+    "static/js/main.156e4fe6.js"
   ]
 }
