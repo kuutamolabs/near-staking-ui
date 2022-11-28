@@ -1,0 +1,14 @@
+[
+  {
+    "account_id": "1.pool.near",
+    "is_enabled": true
+  },
+  {
+    "account_id": "kuupool01.pool.devnet",
+    "is_enabled": true
+  },
+  {
+    "account_id": "3.pool.near",
+    "is_enabled": false
+  }
+]
