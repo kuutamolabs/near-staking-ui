@@ -1,0 +1,10 @@
+[
+  {
+    "account_id": "stardust.poolv1.near",
+    "is_enabled": true
+  },
+  {
+    "account_id": "shardlabs.poolv1.near",
+    "is_enabled": true
+  }
+]
