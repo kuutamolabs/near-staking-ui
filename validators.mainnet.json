@@ -6,5 +6,9 @@
   {
     "account_id": "shardlabs.poolv1.near",
     "is_enabled": true
+  },
+  {
+    "account_id": "calimero.pool.near",
+    "is_enabled": true
   }
 ]
