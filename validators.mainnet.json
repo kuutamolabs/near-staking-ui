@@ -10,5 +10,9 @@
   {
     "account_id": "calimero.pool.near",
     "is_enabled": true
+  },
+  {
+    "account_id": "nearweek.pool.near",
+    "is_enabled": true
   }
 ]
