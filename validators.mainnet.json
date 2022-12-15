@@ -14,5 +14,18 @@
   {
     "account_id": "nearweek.pool.near",
     "is_enabled": true
+  },
+  {
+    "account_id": "sharpdarts.poolv1.near",
+    "is_enabled": true
+  },
+  {
+    "account_id": "nearua.poolv1.near",
+    "is_enabled": true
+  },
+  {
+    "account_id": "udhc1.pool.near",
+    "is_enabled": true
   }
+
 ]
